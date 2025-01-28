@@ -1,10 +1,10 @@
 {
-    "name": "HoVinhThanh7893",
-    "short_name": "HoVinhThanh7893",
-    "description": "hovinhthanh7893 portfolio",
+    "name": "Tabib Imran",
+    "short_name": "Imran",
+    "description": "Tabib Imran portfolio",
     "icons": [
       {
-        "src": "./icons/favicon/favicon.ico",
+        "src": "./icons/favicon/imran.jpg",
         "sizes": "64x64 24x24",
         "type": "icons/x-icon",
         "purpose": "any maskable"
